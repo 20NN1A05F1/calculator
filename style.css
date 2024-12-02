@@ -1,0 +1,23 @@
+#screen{
+    background-color:burlywood;
+    color: blueviolet;
+    padding: 20px;
+    width: 315px;
+    border-radius: 10px;
+    font-size: 25px;
+
+}
+div{
+    background-color:rgb(78, 115, 182);
+    width:500px;
+    height: 500px;
+}
+button{
+    font-size: 50px;
+    width:100px;
+    background-color:antiquewhite;
+    
+}
+body{
+    background-image: url("https://www.giftoo.in/cdn/shop/files/O1CN01jtYc5Z2Fpzc0aRzao_22130714_1.png?v=1720702879");
+}
